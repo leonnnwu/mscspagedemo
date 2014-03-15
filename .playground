@@ -1,0 +1,11 @@
+{
+  "project_name" : "Django framework",
+  "project_description" : "A skeleton for creating App Engine applications using the Django framework",
+  "show_files": [
+    "templates/404.html",
+    "templates/500.html",
+    "templates/base.html",
+    "templates/home.html",
+    "urls.py"
+  ]
+}
