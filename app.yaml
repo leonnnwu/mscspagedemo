@@ -56,13 +56,13 @@ handlers:
   static_dir: css
 
 - url: /js
-  static_dir: js
+  static_dir: static/js
 
 - url: /fonts
   static_dir: fonts
 
 - url: /pdf
-  static_dir: pdf
+  static_dir: static/pdf
 
 # This handler routes requests sent via the deferred library.
 # See https://developers.google.com/appengine/articles/deferred
